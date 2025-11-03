@@ -1,5 +1,7 @@
 Flappy Bird with machine learning for begiiners
+
 Very easy to read code
+
 Controls
 
 1 - player mode
