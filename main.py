@@ -5,6 +5,8 @@ from entity import *
 import random
 
 
+#skittle inc.
+
 # --- Initialize pygame ---
 pygame.init()
 
