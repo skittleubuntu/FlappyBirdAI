@@ -1,6 +1,7 @@
 Flappy Bird with machine learning for begiiners
 
 Very easy to read code
+
 ------------------------------------------------------------------------------------------
 Controls
 
@@ -13,5 +14,6 @@ Controls
 r - restart
 
 space - jump
+
 ------------------------------------------------------------------------------------------
 have fun!
