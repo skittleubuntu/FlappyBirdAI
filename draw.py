@@ -27,6 +27,7 @@ def generate_clouds():
     return result
 
 
+
 # --- Drawing manager ---
 class Draw():
     def __init__(self, screen):

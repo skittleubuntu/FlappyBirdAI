@@ -67,6 +67,7 @@ class Neuron():
         if not next_tube:
             next_tube = tubes[0]
 
+
         # normalize values for neuron inputs
         self.x1 = self.bird.y / HEIGHT                # bird Y
         self.x2 = self.bird.vy / 10                   # vertical speed
