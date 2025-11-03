@@ -1,19 +1,15 @@
-Flappy Bird with machine learning for begiiners
+# FlappyBirdAI
+Game flappy bird with AI integration for machine learning
+Used pygame library for design and pure python for neural network
 
-Very easy to read code
-
-------------------------------------------------------------------------------------------
-Controls
-
+Controls:
 1 - player mode
-
-2 - AI mode
-
-3 - AI mode (faster)
-
+2 - training visible mode
+3 - training invisible mode
 r - restart
-
 space - jump
 
-------------------------------------------------------------------------------------------
-have fun!
+
+Easy-reading code for begginers
+
+
