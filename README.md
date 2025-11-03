@@ -2,10 +2,14 @@ Flappy Bird with machine learning for begiiners
 Very easy to read code
 Controls
 
-1 - player mode/n
-2 - AI mode/n
-3 - AI mode (faster)/n
-r - restart/n
-space - jump/n
+1 - player mode
+
+2 - AI mode
+
+3 - AI mode (faster)
+
+r - restart
+
+space - jump
 
 have fun!
